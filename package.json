@@ -1,0 +1,19 @@
+{
+  "name": "task-organizer",
+  "version": "1.0.0",
+  "description": "app to organize tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMaus8/task-organizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMaus8/task-organizer/issues"
+  },
+  "homepage": "https://github.com/RMaus8/task-organizer#readme"
+}
